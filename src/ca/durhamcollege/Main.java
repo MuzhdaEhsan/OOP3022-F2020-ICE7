@@ -7,7 +7,7 @@ public class Main {
         // write your code here
        // System.out.println("Hello, world");
 
-        Person person = new Person(name: "Bill", age: 40);
+        Person person = new Person("Bill", 40);
         person.saysHello();
     }
 }
